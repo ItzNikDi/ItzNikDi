@@ -1,9 +1,9 @@
-Hello, my name is Nikola Dimitrov, but most people call me Nik Di, so now I'm NoMoreNikDi :)!
-I'm quite keen on gaming, so if you want to play some games with me, you can friend me on Discord: NoMoreNikDi#4068 and ask me there!
+Hello, my name is Nikola Dimitrov, but most people call me Nik Di, so now I choose names that go along with \'nikdi\' :\)!
+I'm quite keen on ~~gaming~~ everything, so if you want to just tag along with me, you can friend me on Discord: wasitnikdi and chat/talk with me there!
 
-I take programming as something that I do every day, although I don't... :D
-My favourite languages are the C Group (mainly C# and C/C++ (w/ Arduino Framework)), but I also like Python/MicroPython, so I guess you can kinda see what I'm interested in... (if you haven't guess, then I'm gonna help - it is IoT Development)
+I code sometimes, when I'm bored and I push to GitHub even less often, but that doesn't matter all that much, does it?
+My favourite languages are the **C Group** \(mainly **C#**, **C++** and **Arduino Framework**\), but I also ~~like~~ code in Python \(again, mainly MicroPython \[whenever needed\]\), **esphome** \(**yaml** configs\) and very recently - **HTML** with **PhaserJS** for game development, so I think that my interests are quite easy to guess - IoT Development, Desktop C-something based \(and <u>maybe</u> one day desktop game development \[stay tuned for that by the way\]\) and also, totally unrelated, but **choosing PC parts** for creating the best possible build for said amount of money and a whole bunch of other things!
 
-If you need/want to know more 'bout me, then again - please, message me on Discord!
+In case you want more knowledge about me, then once again - please, message me on Discord!
 
-NoMoreNikDi out!
+Yes. Yes, it **wasnikdi**.
